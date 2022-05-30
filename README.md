@@ -14,7 +14,7 @@ My source of data is purely from twitter, with interest on #Political campaign,#
  Out of the samples, we can see a highest number are Neutral on the topic. I assumed maybe it is because of the previous political histroy in the country, and it can also be a sign that many citizens have lost hope on the political class. Even though a good number still have positive sentiments on the topic. It is also good to note how low the number is with the negative sentiments, which is a good sign for the post election period. 
  
  I also used the pretrained transfer leraning model: BERT Model.
- with an accuracy score of 
+ with an accuracy score of about 90% 
  
  
  
